@@ -46,7 +46,7 @@ ______________________________
 3. now take the last word and append it at the beginning.
    **oracle**
 
-1. if you ==description== word is less than 3 then just reverse it.
+1. if your==description== word is less than 3 then just reverse it.
 2. consider above 2 word encrypted word
    **fo**
    just reverse it
@@ -55,5 +55,4 @@ ______________________________
 ______________________________
 
 # About me
- hi guys, this is **AHMED** i am 20 year old and i made this program as an exercise. i am still learning python so it may not so good but for me it is amazing. and i learnt so many things while making this small project or exercise how to manipulate the string and all. it was nice experience while making this project.
-
+hi guys, this is AHMED, i am 20 years old and i made this program as an exercise. i am still learning python so it may not be so good, but for me it is amazing. and i learned so many things while making this small project or exercise, how to manipulate the string and all. it was a nice experience while making this project.
